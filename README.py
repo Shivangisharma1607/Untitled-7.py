@@ -12,3 +12,8 @@ def divide(x, y):
         return x / y
     else:
         return "Error: Cannot divide by zero."
+    print("Select operation:")
+print("1. Addition")
+print("2. Subtraction")
+print("3. Multiplication")
+print("4. Division")
